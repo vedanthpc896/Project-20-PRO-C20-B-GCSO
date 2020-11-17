@@ -1,1 +1,2 @@
-# Project-20-PRO-C20-B-GCSO
+# p5.play-boilerplate
+Boiler plate for p5.play
